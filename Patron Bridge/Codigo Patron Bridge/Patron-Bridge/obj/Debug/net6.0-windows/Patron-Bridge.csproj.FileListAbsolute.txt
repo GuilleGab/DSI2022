@@ -1,0 +1,34 @@
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.csproj.AssemblyReference.cache
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron_Bridge.Form1.resources
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.csproj.GenerateResource.cache
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.AssemblyInfoInputs.cache
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.AssemblyInfo.cs
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.csproj.CoreCompileInputs.cache
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\bin\Debug\net6.0-windows\Patron-Bridge.exe
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\bin\Debug\net6.0-windows\Patron-Bridge.deps.json
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\bin\Debug\net6.0-windows\Patron-Bridge.runtimeconfig.json
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\bin\Debug\net6.0-windows\Patron-Bridge.dll
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\bin\Debug\net6.0-windows\Patron-Bridge.pdb
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.dll
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\refint\Patron-Bridge.dll
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.pdb
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.genruntimeconfig.cache
+C:\Users\matit\OneDrive\Escritorio\Guillermo\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\ref\Patron-Bridge.dll
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\bin\Debug\net6.0-windows\Patron-Bridge.exe
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\bin\Debug\net6.0-windows\Patron-Bridge.deps.json
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\bin\Debug\net6.0-windows\Patron-Bridge.runtimeconfig.json
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\bin\Debug\net6.0-windows\Patron-Bridge.dll
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\bin\Debug\net6.0-windows\Patron-Bridge.pdb
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.csproj.AssemblyReference.cache
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron_Bridge.Form1.resources
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.csproj.GenerateResource.cache
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.AssemblyInfoInputs.cache
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.AssemblyInfo.cs
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.csproj.CoreCompileInputs.cache
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.dll
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\refint\Patron-Bridge.dll
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.pdb
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\Patron-Bridge.genruntimeconfig.cache
+C:\Users\matit\OneDrive\Escritorio\Patron Bridge\Codigo Patron Bridge\Patron-Bridge\obj\Debug\net6.0-windows\ref\Patron-Bridge.dll
