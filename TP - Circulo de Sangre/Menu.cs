@@ -49,7 +49,8 @@ namespace TP___Circulo_de_Sangre
 
                     case 5:
                         solicitudesDonaciones.cargarSolicitudDonantes();
-                        solicitudesDonaciones.asignarDonantes();
+                        //solicitudesDonaciones.notificarDonantes();
+                        //solicitudesDonaciones.asignarDonantes();
                         break;
 
                     default:

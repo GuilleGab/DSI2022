@@ -296,22 +296,6 @@ namespace TP___Circulo_de_Sangre
         }
 
 
-        /*public void notificarDonantes(int cantidad)
-        {
-            
-            Socio socio1 = new Socio();
-            do
-            {
-                foreach (var item in donantes)
-                {
-                    Console.WriteLine("Se ha enviado una notificacion al numero de telefono "
-                        + item.Telefono + "\t y un email a la direccion de email " + item.Email);
-                }
-            } while (cantidad == 0);
-            
-        }*/
-
-
 
     }
 }

@@ -10,7 +10,7 @@ namespace TP___Circulo_de_Sangre
     {
         public string grupoSangre;
         public int cantSolicitadaDonantes;
-        DateTime fechaDeSolicitud;
+        public DateTime fechaDeSolicitud;
 
         public string GrupoSangre { get => grupoSangre; set => grupoSangre = value; }
         public int CantSolicitadaDonantes { get => cantSolicitadaDonantes; set => cantSolicitadaDonantes = value; }
@@ -26,39 +26,26 @@ namespace TP___Circulo_de_Sangre
             Console.WriteLine("Por favor ingrese la cantidad de donantes que desea solicitar");
             cantSolicitadaDonantes = Convert.ToInt32(Console.ReadLine());
 
-            asignarDonantes();
+            notificarDonantes();
+            //asignarDonantes();
         }
 
-        public void asignarDonantes()
+        public void notificarDonantes()
         {
-            Socio socio= new Socio();
-            int cantidad;
-            if (cantSolicitadaDonantes >= socio.donantes.Count())
-            {
-                cantidad = socio.donantes.Count();
-                //do
-                //{
-                    foreach (var item in socio.donantes)
-                    {
-                        Console.WriteLine("Se ha enviado una notificacion al numero de telefono "
-                            + item.Telefono + "\t y un email a la direccion de email " + item.Email);
-                    }
-                //} while (cantidad == 0);
-            }
-            else
-            {
-                cantidad = cantSolicitadaDonantes;
-                //do
-                //{
-                    foreach (var item in socio.donantes)
-                    {
-                        Console.WriteLine("Se ha enviado una notificacion al numero de telefono "
-                            + item.Telefono + "\t y un email a la direccion de email " + item.Email);
-                    }
-                //} while (cantidad == 0);
-            }
+            
+            Socio socio =   new Socio();
+            DateTime fecha = FechaDeSolicitud;
+            Socio socio1 = new Socio();
+            
+            Console.WriteLine("Se ha enviado una notificacion al numero de telefono "
+                    + "\t y un email a la direccion de email " +"\t Asignando turno para la fecha " + fecha +"\n");
+           
+
+
         }
 
         
+
+
     }
 }
