@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace TP_PobreTITO
 {
@@ -16,6 +17,8 @@ namespace TP_PobreTITO
         {
             InitializeComponent();
         }
+
+        SqlConnection conexion = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\RegistroUsuarios.mdf"";Integrated Security=True");
 
         private void btnVolver_Click(object sender, EventArgs e)
         {
@@ -48,6 +51,27 @@ namespace TP_PobreTITO
 
             if (contraseña1 == contraseña2)
             {
+                string contraseña = contraseña1;
+                string cargarDatos;
+
+                conexion.Open();
+
+                SqlCommand insert = new SqlCommand($"INSERT INTO Usuarios VALUES('{dni}', '{nombreUser}', '{contraseña}', '{nombre}', '{apellido}', '{direccion}', '{telefono}', '{email}')", conexion);
+                insert.ExecuteNonQuery();
+
+                conexion.Close();
+                /*SqlCommand cmd = new SqlCommand(cargarUsuario, conexion);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@dni", dni);
+                cmd.Parameters.AddWithValue("@nombreUser", nombreUser);
+                cmd.Parameters.AddWithValue("@contraseña", contraseña);
+                cmd.Parameters.AddWithValue("@nombre", nombre);
+                cmd.Parameters.AddWithValue("@apellido", apellido);
+                cmd.Parameters.AddWithValue("@direccion", direccion);
+                cmd.Parameters.AddWithValue("@telefono", telefono);
+                cmd.Parameters.AddWithValue("@email", email);*/
+
+
                 MessageBox.Show("El Usuario ha sido registrado exitosamente", "Usuario Registrado");
                 if (DialogResult.OK == MessageBox.Show("El Usuario ha sido registrado exitosamente"))
                 {

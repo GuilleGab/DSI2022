@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace TP_PobreTITO
 {
@@ -15,6 +16,16 @@ namespace TP_PobreTITO
         public HistorialDeReportes()
         {
             InitializeComponent();
+
+            SqlConnection conexion = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\Users\matit\OneDrive\Escritorio\TP PobreTITO\RegistroUsuarios.mdf"";Integrated Security=True");
+
+
+            string consulta = "SELECT * FROM RegistroIncidentes ORDER BY Fecha DESC";
+            SqlDataAdapter adapter = new SqlDataAdapter(consulta, conexion);
+            DataTable dt = new DataTable();
+            adapter.Fill(dt);
+            dgvHistorial.DataSource = dt;
+
         }
 
         private void btnVolver_Click(object sender, EventArgs e)
@@ -23,5 +34,7 @@ namespace TP_PobreTITO
             inicio.Show();
             this.Hide();
         }
+
+        
     }
 }
